@@ -1,3 +1,8 @@
+# Additions to Python .gitignore template
+*.csv
+
+# Standard Python .gitignore template bellow
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
